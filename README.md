@@ -33,7 +33,7 @@ Este proyecto es un portafolio web personal desarrollado como parte de la Práct
 - [x] Se han incluido las metaetiquetas obligatorias: `charset` y `viewport`.
 - [x] Se ha definido un título descriptivo: “Portafolio de Busy”.
 - [x] Se han vinculado correctamente las hojas de estilo y Google Fonts.
-
+ 
 **Secciones obligatorias en `main`:**
 - [x] Barra de navegación (`<nav>`) con al menos 3 enlaces.
 - [x] Se han insertado al menos 4 comentarios explicativos en el código HTML (por ejemplo: uso de `SVG`, secciones, logo, etc.).
